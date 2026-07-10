@@ -19,13 +19,13 @@ function AccountInfo() {
               <div className="flex flex-col md:flex-row space-x-5">
                 <div className="bg-red-100/40 px-4 py-5 rounded-xl w-[330px] h-[200px] border border-black/50">
                   <p>CONTACT INFORMATION</p>
-                  <p>Grucha ma granatinikp</p>
-                  <p>dsf@gmail.com</p>
+                  <p>aInam Ul Haq</p>
+                  <p>voidbyinam@gmail.com</p>
                 </div>
                 <div className="bg-red-100/40 px-4 py-5 rounded-xl w-[330px] h-[200px] border border-black/50">
                   <p>CONTACT INFORMATION</p>
-                  <p>Grucha ma granatinikp</p>
-                  <p>dsf@gmail.com</p>
+                  <p>Inam Ul Haq</p>
+                  <p>voidbyinam@gmail.com</p>
                 </div>{' '}
               </div>
             </div>{' '}
@@ -34,13 +34,13 @@ function AccountInfo() {
               <div className="flex flex-col md:flex-row space-x-5">
                 <div className="bg-red-100/40 px-4 py-5 rounded-xl w-[330px] h-[200px] border border-black/50">
                   <p>CONTACT INFORMATION</p>
-                  <p>Grucha ma granatinikp</p>
-                  <p>dsf@gmail.com</p>
+                  <p>Inam Ul Haq</p>
+                  <p>voidbyinam@gmail.com</p>
                 </div>
                 <div className="bg-red-100/40 px-4 py-5 rounded-xl w-[330px] h-[200px] border border-black/50">
                   <p>CONTACT INFORMATION</p>
-                  <p>Grucha ma granatinikp</p>
-                  <p>dsf@gmail.com</p>
+                  <p>Inam Ul Haq</p>
+                  <p>voidbyinam@gmail.com</p>
                 </div>{' '}
               </div>
             </div>
